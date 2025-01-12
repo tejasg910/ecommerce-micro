@@ -41,7 +41,7 @@ cp example.env .env
 # Start the server
 npm run start
 
-# Server will run on port 8000
+# Server will run on port 9000
 ```
 
 ### Customer Management Panel Client (Frontend)
@@ -75,7 +75,7 @@ cp example.env .env
 # Start the server
 npm run start
 
-# Server will run on port 9000
+# Server will run on port 8000
 ```
 
 ### Product Order Service Client (Frontend)
@@ -101,8 +101,8 @@ Once all services are running, you can access the applications at:
 
 - Customer Management Panel: `http://localhost:3000`
 - Product Order Service: `http://localhost:3001`
-- Customer Management Backend: `http://localhost:8000`
-- Product Order Backend: `http://localhost:9000`
+- Customer Management Backend: `http://localhost:9000`
+- Product Order Backend: `http://localhost:8000`
 
 ## Environment Variables
 
